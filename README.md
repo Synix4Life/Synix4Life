@@ -1,4 +1,4 @@
-# 💫 Hi:
+# 🔓 Hi:
 - Computer Science Student at TU Darmstadt Student ⚡<br>
 - Using Linux Mint Cinnamon and Windows 11 🍀<br>
 - Coding for fun 📜<br>
@@ -11,4 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Synix4Life&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Synix4Life&theme=dark&hide_border=false)<br/>
 
-!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
+--Created with https://gprm.itsvg.in--
