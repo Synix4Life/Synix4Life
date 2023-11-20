@@ -11,4 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Synix4Life&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Synix4Life&theme=dark&hide_border=false)<br/>
 
---Created with https://gprm.itsvg.in--
+_Created with GPRM (https://gprm.itsvg.in)_
