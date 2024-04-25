@@ -1,13 +1,14 @@
 # 🔓 Welcome to my profile:
 - Computer Science Student at TU Darmstadt ⚡<br>
-- Using Linux Mint Cinnamon (main), Kali Linux and Windows 10 🍀<br>
+- Using Linux Mint Cinnamon (and in VM's: Kali Linux and Windows 10) 🍀<br>
 - Coding for fun and for university 📜<br>
-- Student Assistant for the module "Rechnerorganisation" in the summer term of 2024 🔥
-- Casually enjoying gaming (GD, CS2) and speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
+- Student Assistant for the module "Rechnerorganisation" 🔥
+- Casually enjoying gaming (GD, CS2, GTAV) and speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
 
 ---
 
 ### 💻 Tech Stack:
+![Bash](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
