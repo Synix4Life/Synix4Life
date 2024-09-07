@@ -1,10 +1,11 @@
 # 💯 Welcome to my profile:
 - Computer Science Student at TU Darmstadt ⚡<br>
-- Using Linux Mint Cinnamon (and in VM's: Kali Linux and Windows 10) 🍀<br>
+- Using Linux Mint Cinnamon (and others in VMs) 🍀<br>
 - Coding for fun and for university 📜<br>
-- Student Assistant for the module "Rechnerorganisation" 🔥
-- Speaking German 🇩🇪 , English (~C1) 🇺🇸 , knowing a bit of Russian 🇷🇺
-- Casually enjoying gaming (GD, RL, SWB2) and speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
+- Student Assistant for the module "Introduction to Programming" 🔥
+- Speaking German (native language) 🇩🇪 , English (~C1) 🇺🇸, nowing some bits about other languages
+- Casually enjoying gaming (GD, RL) and speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
+- Car enthusiast 🚗
 
 ---
 
@@ -26,6 +27,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-darkred?style=for-the-badge&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>And a lot more...</br>
 
