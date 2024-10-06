@@ -1,11 +1,11 @@
-# 💯 Welcome to my profile:
+# 💯 Welcome to my profile
 - Computer Science Student at TU Darmstadt ⚡<br>
 - Using Linux Mint Cinnamon (and others in VMs) 🍀<br>
 - Coding for fun and for university 📜<br>
-- Student Assistant for the module "Introduction to Programming" 🔥
+- Student Assistant for the module "Introduction to Programming I" 🔥
 - Speaking German (native language) 🇩🇪 , English (~C1) 🇺🇸, nowing some bits about other languages
-- Casually enjoying gaming (GD, RL) and speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
-- Car enthusiast 🚗
+- Casually enjoying gaming & speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
+- I like my car! 🚗
 
 ---
 
@@ -13,11 +13,11 @@
 
 #### 💬 Languages
 
-![Bash](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script --Bash](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### 🛢 Database
 
@@ -26,8 +26,8 @@
 #### ➕ Other
 
 ![Git](https://img.shields.io/badge/-Git-darkred?style=for-the-badge&logo=Git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <br>And a lot more...</br>
 
