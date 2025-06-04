@@ -1,11 +1,11 @@
 # 💯 Welcome to my profile
 - Computer Science Student at TU Darmstadt ⚡<br>
-- Using Linux Mint Cinnamon 🍀<br>
-- Coding for fun and for university 📜<br>
-- Student Assistant for the module "Introduction to Programming I" 🔥
+- Using Linux Mint 🍀<br>
+- Coding for fun + university 📜<br>
+- Student Assistant for the module "Introduction to Programming II" ✏️
 - Speaking German (native language) 🇩🇪 , English (~C1) 🇺🇸, nowing some bits about other languages
 - Casually enjoying gaming & speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
-- I like my car! 🚗
+- On the side car- detailer & painter with a friend 🔥
 
 ---
 
@@ -15,6 +15,7 @@
 
 ![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script --Bash](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
