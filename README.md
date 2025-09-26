@@ -2,7 +2,7 @@
 - Computer Science Student at TU Darmstadt ⚡<br>
 - Using Linux Mint 🍀<br>
 - Coding for fun + university 📜<br>
-- Student Assistant for the module "Introduction to Programming II" ✏️
+- Student Assistant for the module "Introduction to Programming I" ✏️
 - Speaking German (native language) 🇩🇪 , English (~C1) 🇺🇸, nowing some bits about other languages
 - Casually enjoying gaming & speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
 - On the side car- detailer & painter with a friend 🔥
@@ -22,6 +22,8 @@
 
 #### 📜 Scripting
 
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
