@@ -1,11 +1,11 @@
-# 💯 Welcome to my profile
-- Computer Science Student at TU Darmstadt ⚡<br>
-- Using Linux Mint 🍀<br>
-- Coding for fun + university 📜<br>
-- Student Assistant for the module "Introduction to Programming I" ✏️
-- Speaking German (native language) 🇩🇪 , English (~C1) 🇺🇸, nowing some bits about other languages
-- Casually enjoying gaming & speedcubing (visit https://www.worldcubeassociation.org/persons/2019LANG04 )😂
-- On the side car- detailer & painter with a friend 🔥
+# 💯 Welcome
+- Student: B.Sc. Computer Science @ TU Darmstadt ⚡
+- Using Linux Mint 🍀
+- Coding for fun & university 📜
+- Student assistant for the module "Introduction to Programming I" ✏️
+- Languages: German (native) 🇩🇪 , English (C1) 🇺🇸, French (A1-A2) 🇫🇷, Norwegian (~A1) 🇳🇴
+- Former speedcuber ([WCA profile](https://www.worldcubeassociation.org/persons/2019LANG04)) 😂
+- On the side car-detailer, painter & wrapper with friends for fun 🔥
 
 ---
 
