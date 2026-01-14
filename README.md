@@ -3,7 +3,7 @@
 - Using Linux Mint 🍀
 - Coding for fun & university 📜
 - Student assistant for the module "Introduction to Programming I" ✏️
-- Languages: German (native) 🇩🇪 , English (C1) 🇺🇸, French (A1-A2) 🇫🇷, Norwegian (~A1) 🇳🇴
+- Languages: German (native) 🇩🇪 , English (C1) 🇺🇸, Norwegian (A1-A2) 🇳🇴, French (~A1) 🇫🇷
 - Former speedcuber ([WCA profile](https://www.worldcubeassociation.org/persons/2019LANG04)) 😂
 - On the side car-detailer, painter & wrapper with friends for fun 🔥
 
@@ -39,7 +39,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 <br>And a lot more...</br>
 
@@ -51,7 +50,7 @@
 
 ---
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Synix4Life?theme=dark&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Synix4Life?theme=nord&font=source_code_pro&extension=null)
 
 ---
 
