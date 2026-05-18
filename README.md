@@ -2,8 +2,8 @@
 - Student: B.Sc. Computer Science @ TU Darmstadt ⚡
 - Using Linux Mint 🍀
 - Coding for fun & university 📜
-- Student assistant for the module "Introduction to Programming I" ✏️
-- Languages: German (native) 🇩🇪 , English (C1) 🇺🇸, Norwegian (A1-A2) 🇳🇴, French (~A1) 🇫🇷
+- Languages: German (native) 🇩🇪 , English (C1) 🇺🇸, Norwegian (A1-A2) 🇳🇴
+- 저는 한국어를 배워요!
 - Former speedcuber ([WCA profile](https://www.worldcubeassociation.org/persons/2019LANG04)) 😂
 - On the side car-detailer, painter & wrapper with friends for fun 🔥
 
@@ -16,7 +16,7 @@
 ![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%23f34b7d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-fcad3f?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script --Bash](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -36,6 +36,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-darkred?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -50,10 +52,4 @@
 
 ---
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Synix4Life?theme=nord&font=source_code_pro&extension=null)
-
----
-
 _Created with https://gprm.itsvg.in_
-
-_Leetcode Stats with https://leetcode.card.workers.dev/_
