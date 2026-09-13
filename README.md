@@ -34,6 +34,7 @@
 
 #### ➕ Other
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-darkred?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -47,8 +48,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Synix4Life&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Synix4Life&theme=radical&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=Synix4Life&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Synix4Life&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
